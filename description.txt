@@ -1,0 +1,2 @@
+my sucess from git bash
+先上传到本地的缓存，然后给resporitory的地址Downeyw/delete.git即可上传，但是没有目录 
